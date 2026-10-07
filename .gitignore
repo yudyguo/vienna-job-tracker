@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+.swc/
+
+# Vercel / Workflow generated files
+.vercel/
+app/.well-known/workflow/
+
+# Environment files (keep the template)
+.env
+.env.*
+!.env.example
+
+# Build metadata and coverage
+*.tsbuildinfo
+coverage/
+
+# Local scratch
+tmp/
+output/
+*.log
+.DS_Store
+
+# Private documents
+yadi_cv.pdf
+Yadi_Guo_UIUX_CV_Hallmark.pdf

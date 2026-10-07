@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-11",
+  "framework": "Next.js App Router",
+  "fontStack": "Fraunces Variable + IBM Plex Sans Variable + JetBrains Mono Variable",
+  "palette": "Custom warm ivory, charcoal ink, copper accent (OKLCH)",
+  "motion": "motion-cut with three functional primitives",
+  "spacing": "Hallmark 4pt semantic scale",
+  "source": "existing Next.js application; refreshed after dependency update",
+  "preEmitCritique": "P5 H5 E5 S5 R5 V5",
+  "slopTest": "pass (58 gates)",
+  "contrast": "pass (WCAG A/AA automated audit)",
+  "responsive": "pass at 320, 375, 414, 768 and 1280 CSS px"
+}

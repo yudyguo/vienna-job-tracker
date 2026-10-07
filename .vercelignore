@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.next
+node_modules
+coverage
+*.tsbuildinfo
+yadi_cv.pdf
+Yadi_Guo_UIUX_CV_Hallmark.pdf
